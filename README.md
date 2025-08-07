@@ -6,7 +6,7 @@ A lightweight, reusable CircuitPython class for creating smooth scrolling labels
 
 [![Watch the video](https://user-images.githubusercontent.com/123456789/your-image.png)](https://youtu.be/-lrJ0fy0xm0?si=9HCbgmnwOycmiC4h)
 
-▶️ [YouTube Lesson: Smooth Scrolling Labels in CircuitPython](https://youtu.be/-lrJ0fy0xm0?si=9HCbgmnwOycmiC4h)
+▶️ [YouTube Lesson:] Coming Soon.
 
 ## 📦 Installation
 
